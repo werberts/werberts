@@ -1,3 +1,2 @@
-ola meu nome e Werberts lucas, sou estudante  de engenharia da computação 
-tecnologia: python, c,sql.
-apaixonado por inteligencia artificial e machine lalining.
+Olá  seja Bem vindo!
+   Meu nome e Werberts Lucas , sou apaixonado  por tecnologia em especial  inteligência artificia  e machine leaning . um estudante em contate desenvolvimento.
